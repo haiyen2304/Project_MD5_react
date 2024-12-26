@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-navlink {
+  background-color: #d1d5db;
+  color: #4b5563;
+}
+
+.active .icon-navlink {
+  background-color: #4568f5;
+  color: white;
+}

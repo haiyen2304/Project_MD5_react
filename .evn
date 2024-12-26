@@ -1,0 +1,3 @@
+    VITE_API_URL=http://localhost:8080/api/v1/user/stories/add
+    VITE_UPLOAD_PRESET=
+    VITE_CLOUD_NAME=dakvmthdt
